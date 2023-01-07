@@ -7,7 +7,7 @@ function Homepage() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../imgs/home1.jpg"
+          src="../imgs/naveen.jpg"
           alt="First slide"
         />
         <Carousel.Caption className='carouse'>
