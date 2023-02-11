@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    transition: all 0.5s ease;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5) ;
+}
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+}
+.hom{
+    top:300;
+}
+.product img{
+    transition: all 0.5s ease;
+}
+.product img:hover{
+    transform: scale(1.1);
+}
