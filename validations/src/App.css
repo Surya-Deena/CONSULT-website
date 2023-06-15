@@ -1,0 +1,42 @@
+.form{
+  width: 50%;
+  margin: 0 auto;
+  background-color: rgb(225, 226, 226);
+}
+.grp,.radio,.check{
+  width: 60%;
+  margin: 0 auto;
+}
+.grp label{
+  width: 100%;
+  font-size: 22px;
+  color:darkred;
+  font-weight: 600;
+}
+.grp input{
+  width: 80%;
+  border-color:none;
+  margin-left: 20px;
+}
+.grp p,p{
+  color: rgb(232, 133, 133);
+}
+.button{
+  width: 60%;
+  margin: 0 auto;
+}
+.button button{
+  width: 100%;
+  background-color: coral;
+  font-weight: bold;
+}
+
+.radio label{
+  width: 40%;
+  font-size: 22px;
+  color:darkred;
+  font-weight: 600;
+}
+.radio input{
+  margin-left: 10px;
+}

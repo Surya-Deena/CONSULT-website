@@ -1,0 +1,26 @@
+.sec{
+    background: url("https://digitalfactoryindia.com/storage/2020/02/shape1-home4.png");
+    background-size: contain;
+}
+.wht::after,
+.wht::before{
+    content: "\2022";
+    margin: 0px 8px ;
+    font-weight: 900;
+    font-size: 30px !important;
+    color: #115A9F;
+}
+.wht{
+    color: #115A9F !important;
+}
+.sec li{
+    font-size: 17px;
+    margin-bottom: 10px;
+    color: rgb(94, 94, 94);
+    list-style-type: none;
+}
+.sec li::before{
+    content: "\2714";
+    color:  rgb(126, 200, 48) !important;
+    margin-right:10px ;   
+}

@@ -1,0 +1,27 @@
+.head{
+    color:#115A9F;
+}
+.txt{
+    font-size: 18px;
+    font-weight: 400;
+}
+p span{
+    color: rgb(126, 200, 48);
+}
+.card-body .rounded-pill{
+    background-color:rgb(126, 200, 48) ;
+    width: 100%;
+    border-radius: 100%;
+    font-size: 30px;
+    box-shadow: 0px 0px 20px 10px rgb(212, 210, 210) ;
+}
+.card{
+    height: 320px;
+}
+.clr{
+    background-color: #115A9F;
+    border-color: #115A9F;
+}
+p i{
+    color: red;
+}
