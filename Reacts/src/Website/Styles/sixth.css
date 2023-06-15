@@ -1,0 +1,22 @@
+.txts p{
+    font-size: 18px;
+    font-weight: 300;
+}
+.ctxt{
+    font-size: 18px;
+    font-weight: 300;
+}
+.vmr,.vmr i{
+    color: rgb(119, 216, 94);
+    font-size: 16px;
+    font-weight: 600;
+}
+.tim{
+    color: rgb(134, 134, 134);
+}
+.sbtn{
+    color: #115A9F;
+    font-size: 18px;
+    font-weight: 600;
+    box-shadow: 5px 10px 50px 0px gray;
+}

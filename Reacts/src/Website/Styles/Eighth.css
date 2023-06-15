@@ -1,0 +1,31 @@
+.eg{
+    background-image: linear-gradient(to left,rgba(118, 218, 223, 0.883),rgba(20, 148, 233, 0.899) ,rgb(21, 39, 235)35%);
+}
+.fcol{
+    font-size: 16px;
+    font-weight: 400;
+}
+.sicon {
+    border-radius: 50%; 
+    font-size: 14px;
+    padding: 1px 3px;
+    font-weight: 700;
+}
+.cop,
+.cop span{
+    font-size: large;
+    color:aquamarine;
+}
+.simg{
+    background-image: url("https://digitalfactoryindia.com/storage/2021/02/shape5-home4.png");
+    background-size:150%  contain;
+    height: 420px;
+    width: 85%;
+    margin-left: 70px;
+}
+.stxt{
+    color: #115A9F;
+    font-weight: 500;
+    font-size: 20px;
+
+}

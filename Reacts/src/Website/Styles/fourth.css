@@ -1,0 +1,13 @@
+.fcard{
+    background-image: url("https://digitalfactoryindia.com/storage/2021/02/bg-counter-1.png");
+    background-size: 100% 100% cover;
+    border-radius:30px ;
+    height: 260px;
+    box-shadow: 10px 20px 50px 0px rgb(249, 171, 171);
+}
+.grn li{
+    color: rgb(136, 244, 138);
+}
+.fcard h1{
+    font-weight: 900 !important;
+}
